@@ -7,7 +7,7 @@ Save js urls to a file.
 Save keywords you want to search like auth, token, api to a file.
 
 `
-$~python3 urls.txt keywords.txt output.txt`
+$~python3 js-search.py urls.txt keywords.txt output.txt`
 
 ```
 $~cat output.txt
