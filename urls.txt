@@ -1,0 +1,2 @@
+http://www.example.com/_mainsite/javascripts/request.js
+https://www.example.com/Resource/Scripts/javascript.js
